@@ -11,7 +11,6 @@ int main(int argc, char* argv[]) {
   stopwatch.Start();
 
   Matrix a(400, 2000);
-  a.SetIdentity();
   Matrix b(3000, 400);
   b.SetAll();
 

@@ -2,9 +2,9 @@
 
 #include <cstddef>
 
-// #define OPERATIONS_MULTIPLY
-// #define OPERATIONS_POWER
-// #define OPERATIONS_MULTIPLY_FAST
+#define OPERATIONS_MULTIPLY
+#define OPERATIONS_POWER
+#define OPERATIONS_MULTIPLY_FAST
 // #define OPERATIONS_POWER_FAST
 
 /// \brief Class which handles a two-dimensional matrix.

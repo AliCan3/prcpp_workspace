@@ -21,4 +21,6 @@ set(CMAKE_CXX_EXTENSIONS ON)
 enable_testing()
 
 add_subdirectory(example)
+add_subdirectory(build_system)
 add_subdirectory(uebungen)
+add_subdirectory(woche2)
