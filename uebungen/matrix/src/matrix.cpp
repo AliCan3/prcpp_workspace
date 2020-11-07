@@ -122,7 +122,7 @@ void Matrix::MultiplyInternFast(const double* a, const double* b, double* res, s
 Matrix Matrix::MultiplyFast(const Matrix& other) const {
   assert(horizontal_ == other.vertical_);
   Matrix result = Matrix(vertical_, other.horizontal_);
-  MultiplyInternFast(data_, other.Data(), result.data_, vertical_, other.vertical_, horizontal_);
+  MultiplyInternFast(data_, other.data_, result.data_, vertical_, other.horizontal_, horizontal_);
   return result;
 }
 
