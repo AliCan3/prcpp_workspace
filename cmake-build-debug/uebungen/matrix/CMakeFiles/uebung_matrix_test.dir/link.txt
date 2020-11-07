@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/uebung_matrix_test.dir/unittest/main.cpp.o CMakeFiles/uebung_matrix_test.dir/unittest/matrix_test.cpp.o  -o uebung_matrix_test  libuebung_matrix_lib.a 

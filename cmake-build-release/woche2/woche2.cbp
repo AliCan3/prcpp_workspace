@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="woche2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\build_system\;CMake Files\cmake\;CMake Files\example\;CMake Files\uebungen\;CMake Files\uebungen\matrix\;CMake Files\woche2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-release/woche2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="woche2_app">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-release/woche2/woche2_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-release/woche2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 woche2_app"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="woche2_app/fast">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-release/woche2/woche2_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-release/woche2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 woche2_app/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="woche2_app-cpplint">
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-release/woche2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 woche2_app-cpplint"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-release/woche2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vagrant/prcpp/workspace/woche2/src/main.cpp">
+			<Option target="woche2_app"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/woche2/src/main.h">
+			<Option target="woche2_app"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/build_system/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\build_system\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/cmake/cpplint.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/cmake/prcpp_code.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\example\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\uebungen\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/matrix/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\uebungen\matrix\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/woche2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\woche2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

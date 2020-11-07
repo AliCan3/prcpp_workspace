@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexample_lib.a  CMakeFiles/example_lib.dir/src/function.cpp.o
+/usr/bin/ranlib libexample_lib.a

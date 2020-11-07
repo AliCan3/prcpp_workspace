@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../uebungen/matrix/src/utils/math.h
+cstdint
+-
+cmath
+-
+limits
+-
+type_traits
+-
+
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/matrix.cpp
+matrix.h
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/matrix.h
+iostream
+-
+cstddef
+-
+assert.h
+-
+random
+-
+utils/math.h
+-
+asm/socket.h
+-
+
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/matrix.h
+cstddef
+-
+

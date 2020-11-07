@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vagrant/prcpp/workspace/woche2/src/main.cpp
+main.h
+/home/vagrant/prcpp/workspace/woche2/src/main.h
+cstdlib
+-
+string
+-
+iostream
+-
+
+/home/vagrant/prcpp/workspace/woche2/src/main.h
+

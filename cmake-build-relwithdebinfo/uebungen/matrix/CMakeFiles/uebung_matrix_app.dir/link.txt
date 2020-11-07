@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG   CMakeFiles/uebung_matrix_app.dir/src/main.cpp.o  -o uebung_matrix_app  libuebung_matrix_lib.a 

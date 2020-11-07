@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG   CMakeFiles/woche2_app.dir/src/main.cpp.o  -o woche2_app 

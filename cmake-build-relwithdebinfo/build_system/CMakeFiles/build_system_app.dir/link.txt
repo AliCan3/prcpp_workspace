@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG   CMakeFiles/build_system_app.dir/src/main.cpp.o CMakeFiles/build_system_app.dir/src/student.cpp.o CMakeFiles/build_system_app.dir/src/module.cpp.o  -o build_system_app  libbuild_system_lib.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbuild_system_lib.a  CMakeFiles/build_system_lib.dir/src/module.cpp.o CMakeFiles/build_system_lib.dir/src/student.cpp.o
+/usr/bin/ranlib libbuild_system_lib.a

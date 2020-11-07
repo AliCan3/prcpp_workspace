@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuebung_matrix_lib.a  CMakeFiles/uebung_matrix_lib.dir/src/matrix.cpp.o
+/usr/bin/ranlib libuebung_matrix_lib.a

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="uebung_matrix"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\build_system\;CMake Files\cmake\;CMake Files\example\;CMake Files\uebungen\;CMake Files\uebungen\matrix\;CMake Files\woche2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_lib">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/libuebung_matrix_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vagrant/prcpp/workspace/uebungen/matrix/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_lib"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_lib/fast">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/libuebung_matrix_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vagrant/prcpp/workspace/uebungen/matrix/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_test-cpplint">
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_test-cpplint"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_test">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/uebung_matrix_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vagrant/prcpp/workspace/uebungen/matrix/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_test"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_test/fast">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/uebung_matrix_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vagrant/prcpp/workspace/uebungen/matrix/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_test/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_app-cpplint">
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_app-cpplint"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_app">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/uebung_matrix_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vagrant/prcpp/workspace/uebungen/matrix/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_app"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_app/fast">
+				<Option output="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/uebung_matrix_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vagrant/prcpp/workspace/uebungen/matrix/src"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_app/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uebung_matrix_lib-cpplint">
+				<Option working_dir="/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 uebung_matrix_lib-cpplint"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/vagrant/prcpp/workspace/cmake-build-debug/uebungen/matrix/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/matrix/src/main.cpp">
+			<Option target="uebung_matrix_app"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/matrix/src/matrix.cpp">
+			<Option target="uebung_matrix_lib"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/matrix/src/matrix.h">
+			<Option target="uebung_matrix_lib"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/matrix/unittest/main.cpp">
+			<Option target="uebung_matrix_test"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/matrix/unittest/matrix_test.cpp">
+			<Option target="uebung_matrix_test"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/build_system/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\build_system\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/cmake/cpplint.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/cmake/prcpp_code.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\example\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\uebungen\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/uebungen/matrix/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\uebungen\matrix\"/>
+		</Unit>
+		<Unit filename="/home/vagrant/prcpp/workspace/woche2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\woche2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vagrant/prcpp/workspace/example/src/function.h
+string
+-
+
+/home/vagrant/prcpp/workspace/example/src/main.cpp
+function.h
+/home/vagrant/prcpp/workspace/example/src/function.h
+

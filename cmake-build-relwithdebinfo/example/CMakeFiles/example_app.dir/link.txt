@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG   CMakeFiles/example_app.dir/src/main.cpp.o  -o example_app  libexample_lib.a 

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="prcpp_workspace" targetName="build_system_lib" />
+      <config projectName="prcpp_workspace" targetName="uebung_matrix_lib" />
+      <config projectName="prcpp_workspace" targetName="example_test" />
+      <config projectName="prcpp_workspace" targetName="uebung_matrix_test-cpplint" />
+      <config projectName="prcpp_workspace" targetName="example_test-cpplint" />
+      <config projectName="prcpp_workspace" targetName="build_system_lib-cpplint" />
+      <config projectName="prcpp_workspace" targetName="example_lib" />
+      <config projectName="prcpp_workspace" targetName="example_lib-cpplint" />
+      <config projectName="prcpp_workspace" targetName="build_system_app-cpplint" />
+      <config projectName="prcpp_workspace" targetName="uebung_matrix_test" />
+      <config projectName="prcpp_workspace" targetName="build_system_app" />
+      <config projectName="prcpp_workspace" targetName="uebung_matrix_app" />
+      <config projectName="prcpp_workspace" targetName="example_app-cpplint" />
+      <config projectName="prcpp_workspace" targetName="uebung_matrix_lib-cpplint" />
+      <config projectName="prcpp_workspace" targetName="woche2_app" />
+      <config projectName="prcpp_workspace" targetName="example_app" />
+      <config projectName="prcpp_workspace" targetName="uebung_matrix_app-cpplint" />
+      <config projectName="prcpp_workspace" targetName="woche2_app-cpplint" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" BUILD_OPTIONS="-j4" />
+      <configuration PROFILE_NAME="RelWithDebInfo" CONFIG_NAME="RelWithDebInfo" BUILD_OPTIONS="-j4" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e9296d0-ba0c-45b1-9a63-ba628fb4e864" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:RelWithDebInfo" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hbFXACpsUHGlPVRHe4HoTPANen" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/uebungen/matrix/src" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/woche2/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uebungen/matrix/src" />
+      <recent name="$USER_HOME$/pfiles" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Catch.All in matrix_test.cpp">
+    <configuration name="All in matrix.h" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="uebung_matrix_test" TEST_PATTERN="[#matrix]" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in matrix_test.cpp" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="uebung_matrix_test" TEST_PATTERN="[#matrix_test]" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix Test" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="uebung_matrix_test" TEST_CLASS="[Matrix]" TEST_METHOD="Matrix Test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_test" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="example_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="example_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uebung_matrix_test" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="uebung_matrix_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_system_app-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="build_system_app-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_system_app" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="build_system_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="build_system_app">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_system_lib-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="build_system_lib-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_system_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="build_system_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_app-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="example_app-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_app" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="example_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="example_app">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_app" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="example_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="example_app">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_lib-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="example_lib-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="example_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_test-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="example_test-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uebung_matrix_app-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_app-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uebung_matrix_app" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="uebung_matrix_app">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uebung_matrix_lib-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_lib-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uebung_matrix_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uebung_matrix_test-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="uebung_matrix_test-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="woche2_app-cpplint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="woche2_app-cpplint" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="woche2_app" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="1 2" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="prcpp_workspace" TARGET_NAME="woche2_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="prcpp_workspace" RUN_TARGET_NAME="woche2_app">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Catch.example_test" />
+      <item itemvalue="Catch.uebung_matrix_test" />
+      <item itemvalue="Catch.Matrix Test" />
+      <item itemvalue="Catch.All in matrix.h" />
+      <item itemvalue="Catch.All in matrix_test.cpp" />
+      <item itemvalue="CMake Application.build_system_app" />
+      <item itemvalue="CMake Application.build_system_app-cpplint" />
+      <item itemvalue="CMake Application.build_system_lib" />
+      <item itemvalue="CMake Application.build_system_lib-cpplint" />
+      <item itemvalue="CMake Application.example_app" />
+      <item itemvalue="CMake Application.example_app-cpplint" />
+      <item itemvalue="CMake Application.example_lib" />
+      <item itemvalue="CMake Application.example_lib-cpplint" />
+      <item itemvalue="CMake Application.example_test-cpplint" />
+      <item itemvalue="CMake Application.uebung_matrix_app" />
+      <item itemvalue="CMake Application.uebung_matrix_app-cpplint" />
+      <item itemvalue="CMake Application.uebung_matrix_lib" />
+      <item itemvalue="CMake Application.uebung_matrix_lib-cpplint" />
+      <item itemvalue="CMake Application.uebung_matrix_test-cpplint" />
+      <item itemvalue="CMake Application.woche2_app" />
+      <item itemvalue="CMake Application.woche2_app-cpplint" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.All in matrix_test.cpp" />
+        <item itemvalue="Catch.Matrix Test" />
+        <item itemvalue="Catch.All in matrix.h" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e9296d0-ba0c-45b1-9a63-ba628fb4e864" name="Default Changelist" comment="" />
+      <created>1600271924680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600271924680</updated>
+      <workItem from="1600271926127" duration="109000" />
+      <workItem from="1600272084786" duration="255000" />
+      <workItem from="1601484377974" duration="1870000" />
+      <workItem from="1602440963314" duration="3679000" />
+      <workItem from="1602610677884" duration="310000" />
+      <workItem from="1602662439053" duration="982000" />
+      <workItem from="1602860409402" duration="21896000" />
+      <workItem from="1602927891847" duration="19641000" />
+      <workItem from="1602960499184" duration="2435000" />
+      <workItem from="1603447627519" duration="8008000" />
+      <workItem from="1603463674557" duration="129000" />
+      <workItem from="1603463826410" duration="248000" />
+      <workItem from="1603464173137" duration="494000" />
+      <workItem from="1603464692944" duration="163000" />
+      <workItem from="1603471091957" duration="1831000" />
+      <workItem from="1603472950834" duration="1052000" />
+      <workItem from="1603474096445" duration="392000" />
+      <workItem from="1604743310906" duration="354000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1603472654466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603472654466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1604743406762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604743406762</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602663094744">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="110" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1160.949@72.27.1160.949" timestamp="1600272148324" />
+    <state x="133" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.923@72.27.1848.923" timestamp="1602663094744" />
+    <state x="335" y="238" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600272013571">
+      <screen x="72" y="27" width="1160" height="949" />
+    </state>
+    <state x="335" y="238" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/72.27.1160.949@72.27.1160.949" timestamp="1600272013571" />
+    <state x="632" y="43" width="912" height="907" key="CommitChangelistDialog2" timestamp="1604743406168">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="632" y="43" width="912" height="907" key="CommitChangelistDialog2/72.27.1848.923@72.27.1848.923" timestamp="1604743406168" />
+    <state x="779" y="259" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603471768397">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="779" y="259" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.923@72.27.1848.923" timestamp="1603471768397" />
+    <state x="824" y="388" width="344" height="207" key="Github.ShareDialog" timestamp="1603472123562">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="824" y="388" width="344" height="207" key="Github.ShareDialog/72.27.1848.923@72.27.1848.923" timestamp="1603472123562" />
+    <state width="1802" height="146" key="GridCell.Tab.0.bottom" timestamp="1603474478987">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="146" key="GridCell.Tab.0.bottom/72.27.1848.923@72.27.1848.923" timestamp="1603474478987" />
+    <state width="1802" height="146" key="GridCell.Tab.0.center" timestamp="1603474478986">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="146" key="GridCell.Tab.0.center/72.27.1848.923@72.27.1848.923" timestamp="1603474478986" />
+    <state width="1802" height="146" key="GridCell.Tab.0.left" timestamp="1603474478986">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="146" key="GridCell.Tab.0.left/72.27.1848.923@72.27.1848.923" timestamp="1603474478986" />
+    <state width="1802" height="146" key="GridCell.Tab.0.right" timestamp="1603474478986">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="146" key="GridCell.Tab.0.right/72.27.1848.923@72.27.1848.923" timestamp="1603474478986" />
+    <state width="1802" height="278" key="GridCell.Tab.1.bottom" timestamp="1601485236024">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="278" key="GridCell.Tab.1.bottom/72.27.1848.923@72.27.1848.923" timestamp="1601485236024" />
+    <state width="1802" height="278" key="GridCell.Tab.1.center" timestamp="1601485236015">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="278" key="GridCell.Tab.1.center/72.27.1848.923@72.27.1848.923" timestamp="1601485236014" />
+    <state width="1802" height="278" key="GridCell.Tab.1.left" timestamp="1601485236013">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="278" key="GridCell.Tab.1.left/72.27.1848.923@72.27.1848.923" timestamp="1601485236013" />
+    <state width="1802" height="278" key="GridCell.Tab.1.right" timestamp="1601485236023">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state width="1802" height="278" key="GridCell.Tab.1.right/72.27.1848.923@72.27.1848.923" timestamp="1601485236023" />
+    <state x="182" y="133" width="1629" height="737" key="SettingsEditor" timestamp="1603471780710">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="141" y="136" width="1022" height="737" key="SettingsEditor/72.27.1160.949@72.27.1160.949" timestamp="1600272300171" />
+    <state x="182" y="133" width="1629" height="737" key="SettingsEditor/72.27.1848.923@72.27.1848.923" timestamp="1603471780710" />
+    <state x="591" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604743428039">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="591" y="224" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.923@72.27.1848.923" timestamp="1604743428039" />
+    <state x="777" y="403" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602610878102">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="777" y="403" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.923@72.27.1848.923" timestamp="1602610878102" />
+    <state x="659" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1603472110063">
+      <screen x="72" y="27" width="1848" height="923" />
+    </state>
+    <state x="659" y="226" width="672" height="678" key="search.everywhere.popup/72.27.1848.923@72.27.1848.923" timestamp="1603472110063" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/uebungen/matrix/unittest/matrix_test.cpp</url>
+          <line>425</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

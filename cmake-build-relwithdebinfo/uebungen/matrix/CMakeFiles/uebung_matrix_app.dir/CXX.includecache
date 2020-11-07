@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../uebungen/matrix/src/utils/math.h
+cstdint
+-
+cmath
+-
+limits
+-
+type_traits
+-
+
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/main.cpp
+iostream
+-
+utils/chrono_io.h
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/utils/chrono_io.h
+utils/stopwatch.h
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/utils/stopwatch.h
+matrix.h
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/matrix.h
+
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/matrix.h
+cstddef
+-
+
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/utils/chrono_io.h
+chrono
+-
+iostream
+-
+utils/math.h
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/utils/utils/math.h
+
+/home/vagrant/prcpp/workspace/uebungen/matrix/src/utils/stopwatch.h
+algorithm
+-
+chrono
+-
+
